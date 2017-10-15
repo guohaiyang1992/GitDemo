@@ -1,4 +1,4 @@
-Git is a version control system.
+﻿Git is a version control system.
 Git is free software.
 xxxxxx1
 xxxxxxx2
@@ -6,6 +6,12 @@ xxxxxxx2
 
 我是本地dev准备同步到远程dev
 
+
 我是来至1号的准备制造冲突，最后保留我就好了
 
 我是新的修改dev_test,用于合并时制造冲突
+
+我是来至2号的
+
+我是来至2号的dev
+
